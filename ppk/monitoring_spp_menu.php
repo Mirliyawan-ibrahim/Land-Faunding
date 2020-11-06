@@ -22,19 +22,15 @@
 
 <div class="card card-custom gutter-b">
     <div class="card-header">
-        <div class="card-title">
-            <div class="card-body">
-                <h3 class="card-label">No. SPP : <span>TN 124</span></h3>
-                <h3 class="card-label mt-5">Nama PSN : <span>Jalan Tol Citareum</span></h3>
-            </div>
-        </div>
-        <div class="card-title">
-            <h3 class="card-label">JENIS PEMBAYARAN : LANGSUNG</h3>
+        <div class="card-body">
+            <h5 class="card-title"><span class="font-weight-bolder">No. SPP :</span> <span class="ml-2">TN 124</span></h5>
+            <h5 class="card-text text-right mb-5"> <span class="font-weight-bolder">JENIS PEMBAYARAN :</span> <span class="ml-2">LANGSUNG</span></h5>
+            <h5 class="card-text mt-5"><span class="font-weight-bolder">Nama PSN :</span> <span class="ml-2 text-wrap">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis nisi porro quod! Illo, atque? Vitae quam laboriosam tenetur eaque doloremque ut eos commodi, iure iusto rem accusantium dignissimos soluta libero itaque ab quidem aperiam omnis quas accusamus modi repellat laudantium?</span></h5>
         </div>
     </div>
     <div class="card-header">
         <div class="card-title ml-5 mt-5">
-            <h3 class="card-label mb-5">Permohonan Status : <span class="text-warning font-weight-bolder">Belum Diapprove</span></h3>
+            <h3 class="card-label mb-5 ml-5">Permohonan Status : <span class="text-warning font-weight-bolder">Belum Diapprove</span></h3>
         </div>
     </div>
     <div class="card-body">
